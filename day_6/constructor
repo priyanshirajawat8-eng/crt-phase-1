@@ -1,0 +1,21 @@
+// #include<iostream>
+// using namespace std;
+
+// class cricketers{
+//     public;
+//     string name;
+//     int runs;
+//     double avg;
+
+//     cricketers(string n, int r, double avg)
+//     {
+//         name = n;
+//         runs = r;
+//         this->avg = avg;
+
+//     }
+// }
+
+
+
+
