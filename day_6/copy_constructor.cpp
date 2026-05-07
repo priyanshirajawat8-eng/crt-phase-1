@@ -1,6 +1,6 @@
 #include<iostream>
-using mamespace std;
-class cricketer{
+using namespace std;
+class Cricketer{
     string name;
     int run;
     public:
@@ -16,11 +16,11 @@ void show(){
     cout<<"Name: "<<name<<endl;
     cout<<"Run: "<<run<<endl;
 }
-}
+};
 int main(){
     Cricketer c1("Krishna" , 200);
     c1.show();
     Cricketer c2(c1);
     c2.show();
-    retuen 0
+    return 0;
 }
