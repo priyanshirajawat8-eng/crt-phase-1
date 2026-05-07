@@ -7,6 +7,7 @@ class Cricketer{
     Cricketer(string n, int r) {
         name = n;
         run = r;
+
     }
 Cricketer(Cricketer &c){
     this->name = c.name;
